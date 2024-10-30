@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.1.1](https://github.com/catppuccin/tmux/compare/v2.1.0...v2.1.1) (2024-10-30)
+
+
+### Documentation
+
+* add possible values for window_flags ([#417](https://github.com/catppuccin/tmux/issues/417)) ([c8a2d1a](https://github.com/catppuccin/tmux/commit/c8a2d1ae9649aa904960bef1516ea2ff9a3e6ad0))
+
 ## [2.1.0](https://github.com/catppuccin/tmux/compare/v2.0.0...v2.1.0) (2024-10-25)
 
 
